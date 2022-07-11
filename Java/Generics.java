@@ -1,3 +1,4 @@
+//Generics 기초
 package week02_1;
 import java.util.*;
 
